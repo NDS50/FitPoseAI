@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.python-version
+pose_landmarker.task
+
+# Data and Cache
+dataset/
+keypoints_cache/
