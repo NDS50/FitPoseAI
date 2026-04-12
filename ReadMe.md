@@ -258,7 +258,7 @@ A **soft confidence score** is also computed as the fraction of rules satisfied 
 
 ```bash
 # 1. Setup
-cd /Users/naushad/AESCode
+cd /AESCode
 source venv/bin/activate
 pip install -r requirements.txt
 
@@ -323,4 +323,4 @@ B.Tech Computer Science Engineering
 
 ## 📜 License
 
-For educational and hackathon use only — AesCode Nexus 2026.
+For educational use only 
